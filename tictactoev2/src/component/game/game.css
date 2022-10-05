@@ -1,0 +1,16 @@
+.status {
+  margin-bottom: 10px;
+}
+
+.kbd-navigation {
+  background: #ddd;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
